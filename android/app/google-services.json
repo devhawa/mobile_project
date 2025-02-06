@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "18182829985",
+    "project_id": "collegeproject-384d0",
+    "storage_bucket": "collegeproject-384d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18182829985:android:b6a9794ceaef2b72a07de0",
+        "android_client_info": {
+          "package_name": "com.crud_project.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjIAZC-pY0VnXTs83xVuRWhPuSFRr7q48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18182829985:android:1fa8083f9b4362c1a07de0",
+        "android_client_info": {
+          "package_name": "com.example.crud_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjIAZC-pY0VnXTs83xVuRWhPuSFRr7q48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
